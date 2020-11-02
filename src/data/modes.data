@@ -1,0 +1,14 @@
+export const modes =  {
+    easy: {
+        interval: 1500,
+        timeout: 750
+    },
+      medium: {
+        interval: 1000,
+        timeout: 500
+    }, 
+    hard: {
+        interval: 400,
+        timeout: 200
+    }
+}

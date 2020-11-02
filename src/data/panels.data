@@ -1,0 +1,23 @@
+export const panels = [
+    {
+        id: 1,
+        color: "#228B22",
+        sound: "/sounds/1.ogg"
+    },
+    {
+        id: 2,
+        color: "#EB0E0E",
+        sound: "/sounds/2.ogg"
+    },
+    {
+        id: 3,
+        color: "#F9F100",
+        sound: "/sounds/3.ogg"
+    },
+    {
+        id: 4,
+        color: "#0000F9",
+        sound: "/sounds/4.ogg"
+    },
+
+]
